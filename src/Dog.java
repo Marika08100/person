@@ -1,15 +1,12 @@
-import java.util.ArrayList;
-import java.util.List;
-
-public class Person {
+public class Dog {
     private String name;
-    private  int age;
-    private Gender gender;
+    private int age;
+    private String color;
 
-    public Person(String name, int age, Gender gender) {
+    public Dog(String name, int age, String color) {
         this.name = name;
         this.age = age;
-        this.gender = gender;
+        this.color = color;
     }
 
     public String getName() {
@@ -28,22 +25,20 @@ public class Person {
         this.age = age;
     }
 
-    public Gender getGender() {
-        return gender;
+    public String getColor() {
+        return color;
     }
 
-    public void setGender(Gender gender) {
-        this.gender = gender;
+    public void setColor(String color) {
+        this.color = color;
     }
 
     @Override
     public String toString() {
-        return "Person{" +
+        return "Dog{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
-                ", gender='" + gender + '\'' +
+                ", color='" + color + '\'' +
                 '}';
     }
 }
-
-
