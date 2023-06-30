@@ -7,7 +7,15 @@ public class Main {
         List<Person> personList = new ArrayList<>();
         List<String> lines = FileReader.readFile("person.txt");
         for(String line : lines){
-            String[] parts = line.split(",");
+            String[] lineAsStringArray = line.split(",");
+            Person  actual =
+                    new Person(lineAsStringArray[0],
+                    Integer.parseInt(lineAsStringArray[1]),
+                    lineAsStringArray[2]);
+            personList.add(actual);
+        }
+        for(Person actual : personList){
+            System.out.println(actual);
         }
     }
 }

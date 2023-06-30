@@ -15,6 +15,7 @@ public class FileReader {
             while (sc.hasNextLine()) {
                 stringList.add(sc.nextLine());
             }
+            sc.close();
         } catch (FileNotFoundException e) {
             System.out.println("Nem talalhato file");
         }
