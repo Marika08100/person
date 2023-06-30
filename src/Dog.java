@@ -1,4 +1,4 @@
-public class Dog {
+public class Dog implements  Being{
     private String name;
     private int age;
     private String color;

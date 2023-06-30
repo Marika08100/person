@@ -1,0 +1,341 @@
+Dog-Buksi-4-fekete
+Person-Vaskó András-26-férfi
+Dog-Max-3-fehér
+Person-Kovács Anna-35-nő
+Dog-Rex-7-fekete
+Person-Nagy Gábor-42-férfi
+Dog-Lili-2-szürke
+Person-Kiss Eszter-29-nő
+Dog-Bobby-4-vörös
+Person-Tóth Péter-31-férfi
+Dog-Luna-6-sárga
+Person-Molnár Katalin-48-nő
+Dog-Rocky-4-szürke
+Person-Szabó János-33-férfi
+Dog-Daisy-2-fehér
+Person-Németh Éva-27-nő
+Dog-Charlie-3-fekete
+Person-Fekete Márton-39-férfi
+Dog-Molly-5-barna
+Person-Szűcs Zsuzsanna-25-nő
+Dog-Lucky-6-szürke
+Person-Kovács Péter-36-férfi
+Dog-Cooper-4-fekete
+Person-Tóth Éva-30-nő
+Dog-Bella-3-barna
+Person-Kiss Gábor-41-férfi
+Dog-Teddy-7-fehér
+Person-Szabó Anna-28-nő
+Dog-Lucy-2-szürke
+Person-Nagy Mihály-43-férfi
+Dog-Maximus-5-fekete
+Person-Szabó Péter-32-férfi
+Dog-Mia-4-barna
+Person-Takács Andrea-31-nő
+Dog-Oliver-3-fehér
+Person-Szilágyi László-46-férfi
+Dog-Sophie-6-fekete
+Person-Kovács Éva-29-nő
+Dog-Jake-2-barna
+Person-Fekete Zsolt-38-férfi
+Dog-Ruby-5-szürke
+Person-Nagy Erika-27-nő
+Dog-Rocky-4-fehér
+Person-Kiss András-40-férfi
+Dog-Stella-3-fekete
+Person-Tóthné Ágnes-35-nő
+Dog-Coco-7-barna
+Person-Szabó Balázs-34-férfi
+Dog-Buddy-4-szürke
+Person-Nagy Judit-26-nő
+Dog-Zoe-5-fekete
+Person-Szabó István-37-férfi
+Dog-Duke-2-barna
+Person-Kiss Marianna-33-nő
+Dog-Milo-6-fehér
+Person-Nagy Ferenc-44-férfi
+Dog-Molly-4-szürke
+Person-Tóth Gábor-30-férfi
+Dog-Lola-3-fehér
+Person-Szabó Zsófia-28-nő
+Dog-Toby-5-fekete
+Person-Kovács László-39-férfi
+Dog-Luna-4-barna
+Person-Takács József-32-férfi
+Dog-Max-3-szürke
+Person-Szabóné Mária-36-nő
+Dog-Lucy-7-fehér
+Person-Nagy Imre-41-férfi
+Dog-Charlie-2-fekete
+Person-Kiss Éva-29-nő
+Dog-Daisy-5-barna
+Person-Szabó Mária-43-nő
+Dog-Rocky-4-szürke
+Person-Takács András-38-férfi
+Dog-Bella-3-fehér
+Person-Fekete Katalin-25-nő
+Dog-Teddy-6-fekete
+Person-Kovács Gábor-37-férfi
+Dog-Cooper-4-barna
+Person-Nagy Zsuzsanna-27-nő
+Dog-Mia-5-szürke
+Person-Szabó Istvánné-30-nő
+Dog-Oliver-2-fekete
+Person-Kiss Mária-35-nő
+Dog-Sophie-4-barna
+Person-Szabó János-43-férfi
+Dog-Jake-3-szürke
+Person-Nagy Katalin-26-nő
+Dog-Ruby-5-fehér
+Person-Kovács Péterné-39-nő
+Dog-Stella-7-fekete
+Person-Takács Péter-44-férfi
+Dog-Coco-4-barna
+Person-Szabó Márton-28-férfi
+Dog-Buddy-5-szürke
+Person-Kiss Anna-27-nő
+Dog-Zoe-3-fehér
+Person-Nagy Gáborné-32-nő
+Dog-Duke-6-fekete
+Person-Takács László-41-férfi
+Dog-Milo-4-barna
+Person-Szabó Anna-30-nő
+Dog-Molly-5-szürke
+Person-Kovács Gáborné-38-nő
+Dog-Lola-3-fehér
+Person-Fekete András-25-férfi
+Dog-Toby-5-fekete
+Person-Nagy Éva-35-nő
+Dog-Luna-4-barna
+Person-Szabó József-43-férfi
+Dog-Max-3-szürke
+Person-Kiss László-29-férfi
+Dog-Lucy-7-fehér
+Person-Takács Edit-26-nő
+Dog-Charlie-2-fekete
+Person-Nagy Gábor-39-férfi
+Dog-Daisy-5-barna
+Person-Szabó Mária-27-nő
+Dog-Rocky-4-szürke
+Person-Kiss Péter-44-férfi
+Dog-Bella-3-fehér
+Person-Fekete Anna-35-nő
+Dog-Teddy-6-fekete
+Person-Kovács Lászlóné-32-nő
+Dog-Cooper-4-barna
+Person-Nagy István-41-férfi
+Dog-Mia-5-szürke
+Person-Szabó Zsuzsanna-30-nő
+Dog-Oliver-2-fekete
+Person-Kiss Mária-38-nő
+Dog-Sophie-4-barna
+Person-Takács János-27-férfi
+Dog-Jake-3-szürke
+Person-Fekete Zsófia-26-nő
+Dog-Ruby-5-fehér
+Person-Nagy Márton-43-férfi
+Dog-Stella-7-fekete
+Person-Szabó Éva-29-nő
+Dog-Coco-4-barna
+Person-Kiss Gábor-41-férfi
+Dog-Buddy-5-szürke
+Person-Takács Andrea-28-nő
+Dog-Zoe-3-fehér
+Person-Nagy Balázs-35-férfi
+Dog-Duke-6-fekete
+Person-Szabó Éva-30-nő
+Dog-Milo-4-barna
+Person-Kiss Anna-39-nő
+Dog-Molly-5-szürke
+Person-Takács Péter-26-férfi
+Dog-Lola-3-fehér
+Person-Fekete János-44-férfi
+Dog-Toby-5-fekete
+Person-Szabó Katalin-27-nő
+Dog-Luna-4-barna
+Person-Nagy András-32-férfi
+Dog-Max-3-szürke
+Person-Kovács Anna-29-nő
+Dog-Lucy-7-fehér
+Person-Takács Józsefné-38-nő
+Dog-Charlie-2-fekete
+Person-Fekete Péter-43-férfi
+Dog-Daisy-5-barna
+Person-Kiss Zsuzsanna-35-nő
+Dog-Rocky-4-szürke
+Person-Szabó Márton-27-férfi
+Dog-Bella-3-fehér
+Person-Nagy Gáborné-41-nő
+Dog-Teddy-6-fekete
+Person-Kovács Éva-44-nő
+Dog-Cooper-4-barna
+Person-Fekete László-35-férfi
+Dog-Mia-5-szürke
+Person-Szabó Zsófia-30-nő
+Dog-Oliver-2-fekete
+Person-Kiss János-32-férfi
+Dog-Sophie-4-barna
+Person-Takács Éva-43-nő
+Dog-Jake-3-szürke
+Person-Nagy Mária-29-nő
+Dog-Ruby-5-fehér
+Person-Szabó András-38-férfi
+Dog-Stella-7-fekete
+Person-Kiss Anna-41-nő
+Dog-Coco-4-barna
+Person-Takács Jánosné-35-nő
+Dog-Buddy-5-szürke
+Person-Fekete Gábor-44-férfi
+Dog-Zoe-3-fehér
+Person-Szabó Éva-32-nő
+Dog-Duke-6-fekete
+Person-Nagy Andrásné-39-nő
+Dog-Milo-4-barna
+Person-Kovács István-43-férfi
+Dog-Molly-5-szürke
+Person-Takács Zsuzsanna-29-nő
+Dog-Lola-3-fehér
+Person-Fekete József-38-férfi
+Dog-Toby-5-fekete
+Person-Szabó Zsolt-35-férfi
+Dog-Luna-4-barna
+Person-Kiss Éva-44-nő
+Dog-Max-3-szürke
+Person-Nagy Péter-29-férfi
+Dog-Lucy-7-fehér
+Person-Takács Zsuzsannané-41-nő
+Dog-Charlie-2-fekete
+Person-Fekete Lászlóné-35-nő
+Dog-Daisy-5-barna
+Person-Kovács József-38-férfi
+Dog-Rocky-4-szürke
+Person-Szabó Anna-27-nő
+Dog-Bella-3-fehér
+Person-Nagy András-44-férfi
+Dog-Teddy-6-fekete
+Person-Kiss Zsuzsanna-32-nő
+Dog-Cooper-4-barna
+Person-Fekete Péter-39-férfi
+Dog-Mia-5-szürke
+Person-Szabó Mária-29-nő
+Dog-Oliver-2-fekete
+Person-Takács Jánosné-43-nő
+Dog-Sophie-4-barna
+Person-Nagy Gábor-35-férfi
+Dog-Jake-3-szürke
+Person-Kovács Éva-38-nő
+Dog-Ruby-5-fehér
+Person-Kiss Anna-41-nő
+Dog-Stella-7-fekete
+Person-Takács Józsefné-44-nő
+Dog-Coco-4-barna
+Person-Fekete Péterné-39-nő
+Dog-Buddy-5-szürke
+Person-Szabó Márton-32-férfi
+Dog-Zoe-3-fehér
+Person-Nagy Gábor-35-férfi
+Dog-Duke-6-fekete
+Person-Kovács Anna-38-nő
+Dog-Milo-4-barna
+Person-Takács Józsefné-43-nő
+Dog-Molly-5-szürke
+Person-Fekete Péterné-29-nő
+Dog-Lola-3-fehér
+Person-Kiss Annamária-44-nő
+Dog-Toby-5-fekete
+Person-Szabó Márton-41-férfi
+Dog-Luna-4-barna
+Person-Nagy Gábor-27-férfi
+Dog-Max-3-szürke
+Person-Kovács Éva-38-nő
+Dog-Lucy-7-fehér
+Person-Takács József-35-férfi
+Dog-Charlie-2-fekete
+Person-Fekete Péter-43-férfi
+Dog-Daisy-5-barna
+Person-Kiss Zsuzsanna-29-nő
+Dog-Rocky-4-szürke
+Person-Szabó Anna-38-nő
+Dog-Bella-3-fehér
+Person-Nagy Andrásné-44-nő
+Dog-Teddy-6-fekete
+Person-Kovács Éva-35-nő
+Dog-Cooper-4-barna
+Person-Fekete László-32-férfi
+Dog-Mia-5-szürke
+Person-Szabó Zsuzsanna-41-nő
+Dog-Oliver-2-fekete
+Person-Kiss Jánosné-39-nő
+Dog-Sophie-4-barna
+Person-Takács József-27-férfi
+Dog-Jake-3-szürke
+Person-Nagy Mária-38-nő
+Dog-Ruby-5-fehér
+Person-Szabó András-44-férfi
+Dog-Stella-7-fekete
+Person-Kiss Anna-35-nő
+Dog-Coco-4-barna
+Person-Takács Jánosné-41-nő
+Dog-Buddy-5-szürke
+Person-Fekete Gábor-32-férfi
+Dog-Zoe-3-fehér
+Person-Szabó Éva-39-nő
+Dog-Duke-6-fekete
+Person-Nagy Andrásné-29-nő
+Dog-Milo-4-barna
+Person-Kovács István-44-férfi
+Dog-Molly-5-szürke
+Person-Takács Zsuzsanna-38-nő
+Dog-Lola-3-fehér
+Person-Fekete József-35-férfi
+Dog-Toby-5-fekete
+Person-Szabó Zsolt-32-férfi
+Dog-Luna-4-barna
+Person-Kiss Éva-27-nő
+Dog-Max-3-szürke
+Person-Kovács Anna-29-nő
+Dog-Lucy-7-fehér
+Person-Takács Józsefné-38-nő
+Dog-Charlie-2-fekete
+Person-Fekete Péter-35-férfi
+Dog-Daisy-5-barna
+Person-Kiss Zsuzsanna-32-nő
+Dog-Rocky-4-szürke
+Person-Szabó Anna-29-nő
+Dog-Bella-3-fehér
+Person-Nagy András-38-férfi
+Dog-Teddy-6-fekete
+Person-Kovács Éva-35-nő
+Dog-Cooper-4-barna
+Person-Fekete László-32-férfi
+Dog-Mia-5-szürke
+Person-Szabó Zsuzsanna-29-nő
+Dog-Oliver-2-fekete
+Person-Takács Jánosné-38-nő
+Dog-Sophie-4-barna
+Person-Nagy Gábor-35-férfi
+Dog-Jake-3-szürke
+Person-Kovács Éva-32-nő
+Dog-Ruby-5-fehér
+Person-Kiss Anna-29-nő
+Dog-Stella-7-fekete
+Person-Takács Józsefné-38-nő
+Dog-Coco-4-barna
+Person-Fekete Péterné-35-nő
+Dog-Buddy-5-szürke
+Person-Szabó Márton-32-férfi
+Dog-Zoe-3-fehér
+Person-Nagy Gábor-35-férfi
+Dog-Duke-6-fekete
+Person-Kovács Anna-38-nő
+Dog-Milo-4-barna
+Person-Takács Józsefné-35-nő
+Dog-Molly-5-szürke
+Person-Fekete Péterné-32-nő
+Dog-Lola-3-fehér
+Person-Kiss Annamária-38-nő
+Dog-Toby-5-fekete
+Person-Szabó Márton-35-férfi
+Dog-Luna-4-barna
+Person-Nagy Gábor-32-férfi
+Dog-Max-3-szurke
